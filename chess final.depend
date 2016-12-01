@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1450890388 source:c:\users\lenovo\desktop\the project\chess final\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+
+1450942413 source:c:\users\lenovo\desktop\chess final\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+
